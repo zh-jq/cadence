@@ -13,6 +13,10 @@ An extensible Statsd client for Rust!
 
 Cadence is a fast and flexible way to emit Statsd metrics from your application.
 
+## About this fork
+
+This repo is a fork of cadence with client level flush support.
+
 ## Features
 
 * [Support](https://docs.rs/cadence/) for emitting counters, timers, histograms, distributions,
